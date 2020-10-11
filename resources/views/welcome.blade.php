@@ -75,7 +75,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    CursoLaravel2
+                    CursoLaravel
                 </div>
 
                 <div class="links">
